@@ -1,2 +1,2 @@
 # portfolio
-just a test oortfolio
+just a test portfolio
