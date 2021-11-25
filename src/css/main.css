@@ -28,6 +28,24 @@ body{
     height: 100%;
 }
 
+
+.skill-section{
+    padding: var(--padding-global);
+    display: flex;
+    flex-direction: column;
+}
+
+.skill-wraper{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 2rem;
+}
+
+.skill{
+    display: flex;
+    flex-direction: column;
+}
+
 /*---------------------------------------
 -----------------Header-----------------
 ---------------------------------------*/
