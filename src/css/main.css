@@ -58,6 +58,7 @@ header{
 ----------------Footer-----------------
 ---------------------------------------*/
 footer{
+    width: 100%;
     display: flex;
     justify-content: center;
     padding: var(--padding-global);
